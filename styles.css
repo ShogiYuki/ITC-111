@@ -1,36 +1,31 @@
-body {
-    width: 50%;
-    margin: 0px auto;
-    }
 
-    header {
-    background-color: blueviolet; 
-    color: white; 
-    text-align: center; 
-    padding:5px;
-    }
-
-    nav {
-    text-align: center; 
-    line-height: 30px; 
-    background-color: rgb(192, 82, 192); 
-    height: 300px; 
-    width: 100px; 
-    float: left; 
-    padding: 5px;
-    }
-
-    section {
-    width: 350px; 
-    float: left; 
-    padding: 10px; 
-    margin: 0px 225px auto;
-    }
-
-    footer {
-    background-color: blueviolet; 
-    color: white; 
-    text-align: center; 
-    padding: 5px; 
-    clear: both;
-    }
+.container{
+    background-color:rgb(241, 139, 156);
+    margin: 0 auto;
+    border-radius: 15px;
+    border: 1px black;
+    width: 20%;
+    overflow: hidden;
+}
+#mainHeader {
+    background-color:rgb(247, 88, 114);
+    text-align: center;
+    color: black;
+    padding: 10px;
+}
+#formData {
+    margin: 0 auto;
+    text-align: center;
+    color: black;
+    padding: 10px;
+}
+.registrationLabel {
+    text-align: left;
+    margin-left: 21px;
+}
+.signInLabel {
+    text-align: center;
+}
+#age {
+    width: 30px;
+}
