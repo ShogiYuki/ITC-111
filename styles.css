@@ -2,7 +2,7 @@
     This style will contol the look of ul elements on the page.
 */
 ul {
-    background-color: #333333;
+    background-color: #466e2e;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -53,14 +53,14 @@ a {
     This style effects the element with the id of #innerDivBodyLeft.
 */
 #innerDivBodyLeft_Default {
-    background-color: cadetblue;
+    background-color: rgb(109, 201, 90);
     width: 20%;
 }
 /*
     This style effects the element with the id of #innerDivBodyRight.
 */
 #innerDivBodyRight {
-    background-color: blue;
+    background-color: rgb(171, 247, 156);
     width: 80%;
 }
 #divLeft_Default{
